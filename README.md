@@ -1,10 +1,10 @@
-# 🧮 EMI Affordability Predictor
+#  EMI Affordability Predictor
 
 This project predicts whether a person can comfortably afford a loan's EMI (Equated Monthly Installment) based on their income, expenses, and loan details using a trained Machine Learning model.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Takes user input: income, co-applicant income, rent, loan amount, etc.
 - Calculates EMI and EMI-to-Income ratio
@@ -29,7 +29,7 @@ EMI-Affordability-Predictor/
 
 ---
 
-## ⚙️ How to Use
+##  How to Use
 
 1. Clone this repository or download the files.
 2. Load the model and encoders using Python and `joblib`.
@@ -38,13 +38,19 @@ EMI-Affordability-Predictor/
 
 ---
 
-## 📊 Model Info
+##  Model Info
 
 - **Algorithm:** Random Forest Classifier  
 - **Target:** Binary label (`1` = Can afford, `0` = Cannot afford)  
 - **Dataset:** [Kaggle Loan Prediction Dataset](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)
 
 ---
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/tabassumakthar/emi-affordability-predictor.git
+cd emi-affordability-predictor
 
 ## 💡 Sample Output
 
