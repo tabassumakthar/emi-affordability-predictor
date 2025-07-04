@@ -14,18 +14,17 @@ This project predicts whether a person can comfortably afford a loan's EMI (Equa
 ---
 
 ## 📁 Project Structure
-
 EMI-Affordability-Predictor/
-├── emi_model.pkl # Trained Random Forest model
-├── feature_order.pkl # Order of features used for prediction
-├── Gender_encoder.pkl # LabelEncoder for categorical columns
+├── emi_model.pkl              # Trained Random Forest model
+├── feature_order.pkl          # Order of features used for prediction
+├── Gender_encoder.pkl         # LabelEncoder for categorical columns
 ├── Married_encoder.pkl
 ├── Dependents_encoder.pkl
 ├── Education_encoder.pkl
 ├── Self_Employed_encoder.pkl
 ├── Property_Area_encoder.pkl
-├── EMI_Predictor.ipynb # Jupyter Notebook (optional)
-├── README.md # You're reading this!
+├── EMI_Predictor.ipynb        # Jupyter Notebook (optional)
+├── README.md                  # You're reading this!
 
 
 ---
