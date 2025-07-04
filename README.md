@@ -46,14 +46,15 @@ EMI-Affordability-Predictor/
 
 ---
 
+### 💡 Sample Output
+
+Your EMI: ₹7500.00
+Safe EMI Range: ₹8800.00
+❌ You CANNOT afford this EMI comfortably.
+
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/tabassumakthar/emi-affordability-predictor.git
 cd emi-affordability-predictor
 
-## 💡 Sample Output
-
-Your EMI: ₹7500.00
-Safe EMI Range: ₹8800.00
-❌ You CANNOT afford this EMI comfortably.
