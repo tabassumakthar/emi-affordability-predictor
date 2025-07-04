@@ -1,0 +1,30 @@
+✅ Model Accuracy: 1.0
+📊 Classification Report:
+               precision    recall  f1-score   support
+
+           1       1.00      1.00      1.00       123
+
+    accuracy                           1.00       123
+   macro avg       1.00      1.00      1.00       123
+weighted avg       1.00      1.00      1.00       123
+
+✅ Model & encoders saved.
+
+📝 Enter your details:
+Gender (Male/Female): Male
+Married (Yes/No): Yes
+Dependents (0/1/2/3+): 1
+Education (Graduate/Not Graduate): Graduate
+Self Employed (Yes/No): No
+Applicant Monthly Income: 45000
+Coapplicant Monthly Income: 5000
+Desired Loan Amount (in 1000s): 200
+Loan Term (in months): 36
+Credit History (0.0 or 1.0): 1.0
+Property Area (Urban/Semiurban/Rural): Urban
+Monthly Rent: 5500
+Other Monthly Expenses: 3000
+
+💰 EMI for this loan: ₹5555.56
+📉 Safe EMI range based on your income/expenses: ₹16600.00
+✅ You CAN afford this EMI.
